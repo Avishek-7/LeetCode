@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Avishek-7/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Avishek-7/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avishek-7/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishek-7/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Avishek-7/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Avishek-7/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishek-7/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avishek-7/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishek-7/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Avishek-7/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -41,9 +43,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishek-7/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Avishek-7/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Avishek-7/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Avishek-7/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
