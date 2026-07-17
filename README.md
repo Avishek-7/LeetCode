@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avishek-7/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0383-ransom-note](https://github.com/Avishek-7/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Avishek-7/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Avishek-7/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Avishek-7/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avishek-7/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0383-ransom-note](https://github.com/Avishek-7/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Avishek-7/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Avishek-7/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Avishek-7/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Avishek-7/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Avishek-7/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Avishek-7/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Greedy
