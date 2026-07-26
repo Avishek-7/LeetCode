@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
