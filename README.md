@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Avishek-7/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Breadth-First Search
