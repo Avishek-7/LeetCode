@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Avishek-7/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Avishek-7/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Avishek-7/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Avishek-7/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Avishek-7/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Avishek-7/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Avishek-7/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Avishek-7/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Avishek-7/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Avishek-7/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Depth-First Search
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Tree
@@ -154,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Breadth-First Search
@@ -162,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Avishek-7/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Avishek-7/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -175,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
