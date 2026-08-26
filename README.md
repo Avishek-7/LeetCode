@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -212,5 +215,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 <!---LeetCode Topics End-->
