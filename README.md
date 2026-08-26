@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Avishek-7/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Avishek-7/LeetCode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Avishek-7/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
