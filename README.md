@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Avishek-7/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Avishek-7/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Avishek-7/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Avishek-7/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Avishek-7/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Avishek-7/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avishek-7/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -228,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Avishek-7/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avishek-7/LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/Avishek-7/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
