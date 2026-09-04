@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Avishek-7/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Avishek-7/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,9 +255,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avishek-7/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/Avishek-7/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Avishek-7/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avishek-7/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Avishek-7/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Avishek-7/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
